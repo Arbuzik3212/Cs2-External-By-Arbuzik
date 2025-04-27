@@ -6,5 +6,6 @@ CS2 EXTERNAL 👌
 
 
 
-BUILD : release X64 OR X86
 
+
+ps: Cheat nie jest zaprogramowany przezemnie lecz zbuildowalem go  
